@@ -1,4 +1,4 @@
-# my-project
+# Todo list in Vue.js 3
 
 ## Project setup
 ```
