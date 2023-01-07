@@ -1,4 +1,4 @@
-# Todo list in Vue.js 3
+# Todo list in Vue.js 3 with Tailwind CSS
 
 ## Project setup
 ```
